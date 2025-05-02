@@ -19,8 +19,6 @@ The tool is built using:
 - Natural language query answering based on the combined information
 - Displays response along with the article source
 
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -34,8 +32,6 @@ pip install -r requirements.txt
 ### 3. Add Environment Variables
 Create a .env file and add your OpenAI key:
 OPENAI_API_KEY=your_openai_api_key
-
----
 
 ## 🚀 How to Use
 1. Run the application:
@@ -51,8 +47,6 @@ streamlit run main.py
 3. Get answer to your queries pertaining to the URLs
 - One can now ask a question and get the answer based on those news articles along with the source article for transparency
 
----
-
 ## 📊 Example URLs and Queries
 ### URLs
   - https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html
@@ -61,8 +55,6 @@ streamlit run main.py
 ### Queries
   - What is Tiago iCNG price?
   - Summarize KR Choksey's report on Tata Motors
-
----
 
 ## Project Structure
 - main.py: The main Streamlit application script.
