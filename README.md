@@ -1,8 +1,8 @@
 # 📰 News Article Research Tool  
 _A Conversational App for Summarizing and Citing News Articles using Langchain, OpenAI, and FAISS_
 
-![](NewsResearchTool1.jpg)
-![](NewsResearchTool2.jpg)
+![](NewsResearchTool1.jpeg)
+![](NewsResearchTool2.jpeg)
 
 ## 📌 Project Overview
 
