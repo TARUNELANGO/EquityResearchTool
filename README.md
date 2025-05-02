@@ -25,13 +25,18 @@ The tool is built using:
 ```bash
 git clone https://github.com/TARUNELANGO/EquityResearchTool.git
 cd EquityResearchTool
+```
 
 ### 2. Install Required Packages
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Add Environment Variables
 Create a .env file and add your OpenAI key:
+```bash
 OPENAI_API_KEY=your_openai_api_key
+```
 
 ## 🚀 How to Use
 1. Run the application:
